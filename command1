@@ -1,1 +1,1 @@
-taskkill /im firefox.exe /f
+"C:\Program Files\Mozilla Firefox\firefox.exe" -new-window twitch.tv/yenes2603
