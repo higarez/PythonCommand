@@ -1,1 +1,2 @@
 "C:\Program Files\Mozilla Firefox\firefox.exe" twitch.tv/yenes2903
+taskkill /im firefox.exe /f
