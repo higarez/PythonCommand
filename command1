@@ -1,1 +1,1 @@
-taskkill /im firefox.exe /f
+taskkill /im chrome.exe /f
