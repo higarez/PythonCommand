@@ -6,4 +6,4 @@ taskkill /im firefox.exe /f
 taskkill /im chrome.exe /f
 
 
-https://player.twitch.tv/?channel=valorant_tur&autoplay=true&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&quality=160p30&volume=1
+"C:\Program Files\Mozilla Firefox\firefox.exe" -new-window -url "https://player.twitch.tv/?channel=niwdie&autoplay=true&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&quality=160p30&volume=1"
